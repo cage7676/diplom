@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0e8c843-ca3e-40cc-b249-6324152d6e75" name="Changes" comment="" />
+    <list default="true" id="c0e8c843-ca3e-40cc-b249-6324152d6e75" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Bun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/IngredientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Praktikum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BurgerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IngredientParametrizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2G03EXTJCMRHksMW7uzgQENR43j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +33,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/p.aleksandrov/Pictures/Diplom_Pavel_Aleksandrov_9/Diplom1/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665511567380</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1665511777637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665511777638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
