@@ -21,7 +21,7 @@ public class Database {
         ingredients.add(new Ingredient(IngredientType.SAUCE, "chili sauce", 300));
 
         ingredients.add(new Ingredient(IngredientType.FILLING, "cutlet", 100));
-        ingredients.add(new Ingredient(IngredientType.FILLING, "dinosaur", 200));
+        ingredients.add(new Ingredient(IngredientType.FILLING, "dinosaur", 2100));
         ingredients.add(new Ingredient(IngredientType.FILLING, "sausage", 300));
     }
 
